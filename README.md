@@ -28,4 +28,4 @@ python timer_out.py
 
 Output is saved as `timed.txt` in root folder!
 
-Please see releases for a portable, .exe version of this!
+Please see [releases](https://github.com/spicytigermeat/singing_db_timer/releases/tag/portable) for a portable, .exe version of this!
